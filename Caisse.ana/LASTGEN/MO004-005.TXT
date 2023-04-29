@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Client		FIC-	Client	Fichier supprimé Client
+Contrainte_Client_Commande		DEL	Client (IDClient) et Commande (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Commande (IDClient)

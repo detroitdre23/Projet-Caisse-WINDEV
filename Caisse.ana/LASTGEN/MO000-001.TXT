@@ -1,0 +1,14 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Categorie		NFI		nouveau fichier
+Client		NFI		nouveau fichier
+Commande		NFI		nouveau fichier
+Produit		NFI		nouveau fichier
+Utilisateur		NFI		nouveau fichier
+DetailCommande		NFI		nouveau fichier
+Entite		NFI		nouveau fichier
+Type_Utilisateur		NFI		nouveau fichier
+Contrainte_Categorie_Produit		NWL	Categorie (IDCategorie) et Produit (IDCategorie)	Nouvelle liaison entre les fichiers Categorie (IDCategorie) et Produit (IDCategorie)
+Contrainte_Commande_DetailCommande		NWL	Commande (IDCommande) et DetailCommande (IDCommande)	Nouvelle liaison entre les fichiers Commande (IDCommande) et DetailCommande (IDCommande)
+Contrainte_Produit_DetailCommande		NWL	Produit (IDProduit) et DetailCommande (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et DetailCommande (IDProduit)
+Contrainte_Client_Commande		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)
+Contrainte_Type_Utilisateur_Utilisateur		NWL	Type_Utilisateur (IDType_Utilisateur) et Utilisateur (IDType_Utilisateur)	Nouvelle liaison entre les fichiers Type_Utilisateur (IDType_Utilisateur) et Utilisateur (IDType_Utilisateur)

@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Commande		TAR	41	nouvelle taille enregistrement : 41
+Commande	IDClient	RUB-		la clé IDClient est supprimée

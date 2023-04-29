@@ -1,0 +1,5 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Contrainte_Categorie_Produit		NWL	Categorie (IDCategorie) et Produit (IDCategorie)	Nouvelle liaison entre les fichiers Categorie (IDCategorie) et Produit (IDCategorie)
+Contrainte_Produit_DetailCommande		NWL	Produit (IDProduit) et DetailCommande (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et DetailCommande (IDProduit)
+Contrainte_Categorie_Produit		DEL	Categorie (IDCategorie) et Produit (IDCategorie)	Liaison supprimée entre les fichiers Categorie (IDCategorie) et Produit (IDCategorie)
+Contrainte_Produit_DetailCommande		DEL	Produit (IDProduit) et DetailCommande (IDProduit)	Liaison supprimée entre les fichiers Produit (IDProduit) et DetailCommande (IDProduit)

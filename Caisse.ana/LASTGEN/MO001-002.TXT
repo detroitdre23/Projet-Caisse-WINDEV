@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Produit		TAR	402	nouvelle taille enregistrement : 402
+Produit	DesignationAR	RUB-		la rubrique DesignationAR est supprimée
